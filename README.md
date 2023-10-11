@@ -21,7 +21,7 @@
  ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=F8F8FF)&nbsp; 
  ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=purple&labelColor=F8F8FF)&nbsp; 
  ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=purple&labelColor=F8F8FF)&nbsp; 
- ![css](https://img.shields.io/css/v/css.svg?logo=css)&nbsp; 
+ ![css](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&logoColor=purple&labelColor=F8F8FF)&nbsp; 
 
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
