@@ -20,7 +20,7 @@
  ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=F8F8FF)&nbsp; 
  ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=F8F8FF)&nbsp; 
  ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=purple&labelColor=F8F8FF)&nbsp; 
- ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp; 
+ ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=purple&labelColor=F8F8FF)&nbsp; 
 
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
